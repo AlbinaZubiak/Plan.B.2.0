@@ -83,7 +83,7 @@ body {
     text-decoration: none;
     left: 32px;
     bottom: 32px;
-} 
+}
 
 .product__link:hover {
     cursor: url(img/Vector.svg), pointer;
@@ -304,7 +304,7 @@ body {
         display: flex;
         flex-direction: column;
     }
-    
+
     .gameseasons__box {
         text-align: center;
         align-items: center;
@@ -359,9 +359,6 @@ body {
 
     .gamepuzzles__text {
         font-size: 14px;
-        line-height: 22px;
+        line-height: 23px;
     }
 }
-    
-
-    
